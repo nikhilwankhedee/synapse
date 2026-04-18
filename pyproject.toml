@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "synapse-tracer"
+version = "1.0.0"
+description = "Neural-style execution graph visualizer for Python projects"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+  {name = "Nikhil Wankhede"}
+]
+
+dependencies = [
+  "pyvis",
+  "psutil"
+]
+
+[project.scripts]
+synapse = "synapse.cli:main"
