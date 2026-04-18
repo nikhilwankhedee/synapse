@@ -37,9 +37,8 @@ It traces your program during execution and renders an interactive graph showing
 
 ## Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_LINK_HERE
+https://github.com/user-attachments/assets/ef73d513-b117-445f-a893-e7a2439b4457
 
-*(Replace `YOUR_VIDEO_LINK_HERE` with your actual GitHub video asset URL — drag `synapse_demo.mkv` into a GitHub issue to get the link)*
 
 ---
 
